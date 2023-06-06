@@ -92,4 +92,4 @@ I would run this at the command line as
 ./loanTester.py snapshot faculty_loan_tester.csv
 
 ## Contributors
-This script was written by Erin Nettifee, with assistance from Tod Olson and Aaron Neslin. All three are members of the FOLIO community.
+This script was written by Erin Nettifee, with assistance from and thanks to Tod Olson and Aaron Neslin. Questions can be sent to enettifee@gmail.com.
